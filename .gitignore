@@ -1,0 +1,4 @@
+# venv directory
+fastapi-learning
+item-api/__pycache__
+simple-example/__pycache__
