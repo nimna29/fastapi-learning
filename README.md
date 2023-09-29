@@ -146,9 +146,12 @@ cd <project_directory>
 
 Enjoy exploring and running the FastAPI projects!
 
+### `License`
+This project is licensed under the MIT License. See [LICENSE](https://github.com/nimna29/fastapi-learning/blob/main/LICENSE) for more details.
+
 -------------------------------
 
-## Credits
+### `Credits`
 
 I would like to extend my gratitude to the following sources for their valuable tutorials and resources that helped me learn and build the projects in this repository:
 
