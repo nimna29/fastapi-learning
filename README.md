@@ -18,7 +18,7 @@ This project introduces you to a To-do app built using FastAPI. You'll learn how
 ### [ml-with-fastapi](https://github.com/nimna29/fastapi-learning/tree/main/ml-with-fastapi)
 In this project, you'll delve into the integration of FastAPI with a machine-learning model. It offers a practical example of how FastAPI can be used in real-world applications, particularly in ML-based projects.
 
-🔥 Feel free to explore each project, experiment with the code, and expand your FastAPI knowledge. Happy learning! 😎
+🔥 Feel free to explore each project, experiment with the code, and expand your FastAPI knowledge.</br>Happy learning! 😎
 
 ---------------------------------------
 
