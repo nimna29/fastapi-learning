@@ -122,11 +122,14 @@ cd <project_directory>
 
 2. You can access the project output in your browser using the following URL:
 
-   - [http://127.0.0.1:8000](http://127.0.0.1:8000)
-
+   ```bash
+   http://127.0.0.1:8000
+   ```
 3. To explore the API documentation, visit:
 
-   - [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+   ```bash
+   http://127.0.0.1:8000/docs
+   ```
 
 ### For `fastapi-crash-course` and `ml-with-fastapi` Projects:
 
@@ -138,11 +141,14 @@ cd <project_directory>
 
 2. You can access the project output in your browser using the following URL:
 
-   - [http://127.0.0.1:8000](http://127.0.0.1:8000)
-
+   ```bash
+   http://127.0.0.1:8000
+   ```
 3. To explore the API documentation, visit:
 
-   - [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+   ```bash
+   http://127.0.0.1:8000/docs
+   ```
 
 Enjoy exploring and running the FastAPI projects!
 
