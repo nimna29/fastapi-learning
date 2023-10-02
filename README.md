@@ -57,7 +57,7 @@ Follow these steps to set up your development environment for this project:
    deactivate
    ```
 
-### Create and Activate & Deactivate `venv` using conda
+### Create, Activate & Deactivate `venv` using conda
 
 - Use Anaconda Navigator to create a venv:
 
@@ -66,7 +66,7 @@ Follow these steps to set up your development environment for this project:
    conda activate <venv_name>
 
    # To deactivate the conda environment
-   conda deactivate <venv_name>
+   conda deactivate
    ```
 
 ### Install the Dependencies
