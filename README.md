@@ -61,7 +61,7 @@ Follow these steps to set up your development environment for this project:
 
 - Use Anaconda Navigator to create a venv:
 
-   ```
+   ```bash
    # Activate the conda environment
    conda activate <venv_name>
 
