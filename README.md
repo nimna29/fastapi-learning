@@ -5,15 +5,16 @@ Welcome to the FastAPI Learning repository! This collection of projects is desig
 ## Table of Contents
 1. [Overview of the Repository](#overview-of-the-repository)
 2. [Setting Up the Development Environment](#setting-up-the-development-environment)
-    * [Segmentation](#segmentation-code)
-    * [Feature Extraction](#feature-extraction-code)
-3. [Convolutional Neural Networks](#convolutional-neural-networks)
-    * [Class Imbalance](#class-imbalance-code)
-    * [Model Architecture](#model-architecture-code)
-    * [Training the Model](#training-the-model)  
-    * [Results](#results)
-4. [Donate Your Data](#donate-your-data-code)
-5. [Future Directions](#future-directions)
+    * [Create a New `venv`](#create-a-new-venv)
+    * [Activate and Deactivate `venv`](#activate-and-deactivate-venv)
+    * [Create, Activate & Deactivate `venv` using conda](#create-activate--deactivate-venv-using-conda)
+    * [Install the Dependencies](#install-the-dependencies)
+3. [Additional Requirements](#additional-requirements)
+4. [Running the Projects](#running-the-projects)
+    * [For simple-example and item-api Projects](#for-simple-example-and-item-api-projects)
+    * [For fastapi-crash-course and ml-with-fastapi Projects](#for-fastapi-crash-course-and-ml-with-fastapi-projects)
+6. [License](#license)
+7. [Credits](#credits)
 
 ## Overview of the Repository
 
