@@ -2,6 +2,19 @@
 
 Welcome to the FastAPI Learning repository! This collection of projects is designed to help you learn and explore FastAPI, a modern web framework for building APIs with Python.
 
+## Table of Contents
+1. [Overview of the Repository](#overview-of-the-repository)
+2. [Setting Up the Development Environment](#setting-up-the-development-environment)
+    * [Segmentation](#segmentation-code)
+    * [Feature Extraction](#feature-extraction-code)
+3. [Convolutional Neural Networks](#convolutional-neural-networks)
+    * [Class Imbalance](#class-imbalance-code)
+    * [Model Architecture](#model-architecture-code)
+    * [Training the Model](#training-the-model)  
+    * [Results](#results)
+4. [Donate Your Data](#donate-your-data-code)
+5. [Future Directions](#future-directions)
+
 ## Overview of the Repository
 
 This repository features four practical FastAPI projects, each with its own unique focus and learning opportunities:
